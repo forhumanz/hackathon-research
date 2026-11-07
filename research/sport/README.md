@@ -94,6 +94,7 @@ mesurables (LSI ≥ 90 %, ACL-RSI ≥ 80 %), pas inventés par le LLM.
 | `04-problemes.md` | problèmes chiffrés, du plus au moins exploitable |
 | `05-idees.md` | 6 pistes scorées, recommandation, risques |
 | `06-sources.md` | sources, niveau de confiance, ce qui reste à vérifier |
+| `07-moteur-decisionnel.md` | bibliographie commentée du moteur : JITAI, bandits, LLM contraint, évaluation |
 
 ## Ce qu'on ne sait pas encore
 
